@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My first calculator app that I created using node.js and express.js practice",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Junaid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
